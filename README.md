@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DashCell&langs_count=2&layout=compact&theme=dark)](https://github.com/DashCell/github-readme-stats)-->
 
+[![Dashcell's github stats](https://github-readme-stats.vercel.app/api?username=DashCell&count_private=true&show_icons=true&theme=dark)](https://github.com/DashCell/github-readme-stats)
 <!--
 **DashCell/DashCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
