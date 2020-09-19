@@ -1,9 +1,17 @@
-### Hi there 👋
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DashCell&langs_count=2&layout=compact&theme=dark)](https://github.com/DashCell/github-readme-stats)-->
-
 [![Dashcell's github stats](https://github-readme-stats.vercel.app/api?username=DashCell&count_private=true&show_icons=true&theme=dark)](https://github.com/DashCell/github-readme-stats)
+--------------------------------------------------------
+## Technologies
+
+![](https://img.shields.io/badge/OS-Linux%20Mint-informational?style=plastic&logo=linux-mint&logoColor=green&labelColor=black&color=green)
+![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=green&labelColor=black&color=green)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=plastic&logo=visual-studio-code&logoColor=green&labelColor=black&color=green)
+![](https://img.shields.io/badge/Code-C/C++-informational?style=plastic&logo=c%2B%2B&logoColor=green&labelColor=black&color=green)
+
 <!--
+### Hi there 👋
 **DashCell/DashCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DashCell&langs_count=2&layout=compact&theme=dark)](https://github.com/DashCell/github-readme-stats)
 
 Here are some ideas to get you started:
 
